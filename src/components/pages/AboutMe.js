@@ -1,13 +1,14 @@
 import React from "react";
+import profilepic from "../../assets/IMG_1575.JPG";
 
 function AboutMe() {
     return (
         <>
             <div className="container m-2 justify-center">
                 <h2 className="font-bold text-slate-200 justify-center text-3xl justify-center flex flex-row mb-3 border-b pb-2">About Me</h2>
-                {/* Rounded image template found at https://codepen.io/oidre/pen/ExPaaEJ*/}
+                
                 <div className="flex flex-col items-center justify-around md:flex-row md: justify-end">
-                    <div className="relative w-64 h-64 md:min-w-[20%] mb-3"><img className="rounded-full border border-sky-100 shadow-sm" src="IMG_1575.JPG" alt="Nataliesselfie" />
+                    <div className="relative w-64 h-64 md:min-w-[15%] mb-15"><img className="rounded-full border border-white-100 shadow-sm" src={profilepic} alt="Nataliesselfie" />
                         
                     </div>
                     <div className="px-3 mx-2 text-slate-200 text-lg">
