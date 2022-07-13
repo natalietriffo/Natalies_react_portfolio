@@ -1,8 +1,8 @@
 {
-  "name": "me-react-portfolio",
+  "name": "natalies-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mae2136.github.io/me-react-portfolio",
+  "homepage": "https://natalietriffo.github.io/Natalies_react_portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
