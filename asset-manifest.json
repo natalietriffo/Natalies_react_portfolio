@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/me-react-portfolio/static/css/main.678509aa.css",
-    "main.js": "/me-react-portfolio/static/js/main.96c8b3c7.js",
-    "static/js/787.6f2ef78e.chunk.js": "/me-react-portfolio/static/js/787.6f2ef78e.chunk.js",
-    "static/media/IMG_1575.JPG": "/me-react-portfolio/static/media/IMG_1575.a4e12a59ad4dc952b9b3.JPG",
-    "index.html": "/me-react-portfolio/index.html",
-    "main.678509aa.css.map": "/me-react-portfolio/static/css/main.678509aa.css.map",
-    "main.96c8b3c7.js.map": "/me-react-portfolio/static/js/main.96c8b3c7.js.map",
-    "787.6f2ef78e.chunk.js.map": "/me-react-portfolio/static/js/787.6f2ef78e.chunk.js.map"
+    "main.css": "/Natalies_react_portfolio/static/css/main.678509aa.css",
+    "main.js": "/Natalies_react_portfolio/static/js/main.dc1f24e1.js",
+    "static/js/787.8f582898.chunk.js": "/Natalies_react_portfolio/static/js/787.8f582898.chunk.js",
+    "static/media/IMG_1575.JPG": "/Natalies_react_portfolio/static/media/IMG_1575.a4e12a59ad4dc952b9b3.JPG",
+    "index.html": "/Natalies_react_portfolio/index.html",
+    "main.678509aa.css.map": "/Natalies_react_portfolio/static/css/main.678509aa.css.map",
+    "main.dc1f24e1.js.map": "/Natalies_react_portfolio/static/js/main.dc1f24e1.js.map",
+    "787.8f582898.chunk.js.map": "/Natalies_react_portfolio/static/js/787.8f582898.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.678509aa.css",
-    "static/js/main.96c8b3c7.js"
+    "static/js/main.dc1f24e1.js"
   ]
 }
