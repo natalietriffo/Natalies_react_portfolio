@@ -8,16 +8,16 @@ import Portfolio from "./pages/Portfolio";
 
 
 function PortfolioContainer() {
-    const [currentPage, setCurrentPage] = useState('ABOUT');
+    const [currentPage, setCurrentPage] = useState('about me');
 
     const renderPage = () => {
-        if (currentPage === 'ABOUT') {
+        if (currentPage === 'about me') {
             return <AboutMe />;
         }
-        if (currentPage === 'PORTFOLIO') {
+        if (currentPage === 'my portfolio') {
             return <Portfolio />;
         }
-        if (currentPage === 'CONTACT') {
+        if (currentPage === 'contact me') {
             return <Contact />;
         }
     };
